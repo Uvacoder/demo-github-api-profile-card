@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/practice-project-githubcard/static/css/main.1af3993e.chunk.css",
+    "main.js": "/practice-project-githubcard/static/js/main.2f495b6e.chunk.js",
+    "main.js.map": "/practice-project-githubcard/static/js/main.2f495b6e.chunk.js.map",
+    "runtime-main.js": "/practice-project-githubcard/static/js/runtime-main.5be9b9e4.js",
+    "runtime-main.js.map": "/practice-project-githubcard/static/js/runtime-main.5be9b9e4.js.map",
+    "static/js/2.0332ec62.chunk.js": "/practice-project-githubcard/static/js/2.0332ec62.chunk.js",
+    "static/js/2.0332ec62.chunk.js.map": "/practice-project-githubcard/static/js/2.0332ec62.chunk.js.map",
+    "index.html": "/practice-project-githubcard/index.html",
+    "static/css/main.1af3993e.chunk.css.map": "/practice-project-githubcard/static/css/main.1af3993e.chunk.css.map",
+    "static/js/2.0332ec62.chunk.js.LICENSE.txt": "/practice-project-githubcard/static/js/2.0332ec62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be9b9e4.js",
+    "static/js/2.0332ec62.chunk.js",
+    "static/css/main.1af3993e.chunk.css",
+    "static/js/main.2f495b6e.chunk.js"
+  ]
+}
