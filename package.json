@@ -1,5 +1,5 @@
 {
-  "homepage": "http://official-carledwardfp.github.io/practice-project-githubcard",
+  "homepage": "https://practice-project-githubcard.vercel.app",
   "name": "practice-project-githubcard",
   "version": "0.1.0",
   "private": true,
@@ -19,8 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": [
