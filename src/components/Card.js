@@ -41,7 +41,7 @@ const Card = () => {
 
   useEffect(() => {
     const fetchURL = async () => {
-      const { data } = await axios.get(`${url}/official-carledwardfp`);
+      const { data } = await axios.get(`${url}/uvacoder`);
       setData(data);
     };
 
